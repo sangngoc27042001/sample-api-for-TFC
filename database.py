@@ -67,5 +67,7 @@ class database():
             'teacher_list':teacher_list,
             'stu_list':stu_list,
             'course_list':course_list,
+            'teacher_num':len(teacher_list),
+            'stu_num':len(stu_list),
         }
 Database=database()
