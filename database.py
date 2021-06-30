@@ -88,6 +88,20 @@ class database():
                         'date':'4/4/2021'
                     }
                 ]
+            },
+            'calendar':{
+                {
+                    'date':'30-6-2021',
+                    'start':'19:30',
+                    'end':'21:00',
+                    'content':'READING'
+                },
+                {
+                    'date':'1-7-2021',
+                    'start':'17:30',
+                    'end':'19:00',
+                    'content':'LISTENING'
+                },
             }
         }
 Database=database()
