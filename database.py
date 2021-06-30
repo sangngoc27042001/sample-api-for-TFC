@@ -69,5 +69,25 @@ class database():
             'course_list':course_list,
             'teacher_num':len(teacher_list),
             'stu_num':len(stu_list),
+            'message':{
+                'new':2,
+                'mess_list':[
+                    {
+                        'title':'Học Phí tháng 6',
+                        'content':'Bạn chưa thanh toán học phí tháng 6',
+                        'date':'6/6/2021'
+                    },
+                    {
+                        'title':'Học Phí tháng 5',
+                        'content':'Bạn chưa thanh toán học phí tháng 5',
+                        'date':'5/5/2021'
+                    },
+                    {
+                        'title':'Học Phí tháng 4',
+                        'content':'Bạn chưa thanh toán học phí tháng 4',
+                        'date':'4/4/2021'
+                    }
+                ]
+            }
         }
 Database=database()
