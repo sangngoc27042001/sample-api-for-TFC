@@ -89,7 +89,7 @@ class database():
                     }
                 ]
             },
-            'calendar':{
+            'calendar':[
                 {
                     'date':'30-6-2021',
                     'start':'19:30',
@@ -102,6 +102,6 @@ class database():
                     'end':'19:00',
                     'content':'LISTENING'
                 },
-            }
+            ]
         }
 Database=database()
