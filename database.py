@@ -102,6 +102,12 @@ class database():
                     'end':'19:00',
                     'content':'LISTENING'
                 },
+               {
+                    'date':'15-7-2021',
+                    'start':'17:30',
+                    'end':'19:00',
+                    'content':'WRITING'
+                },
             ]
         }
 Database=database()
