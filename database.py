@@ -115,13 +115,13 @@ class database():
                     'paymentstatus':'-1 000 000 vnd',
                     'teachername':'Ngo Bao Chau',
                     'start':'2020-12-25',
-                    'end':'2021-6-27'
+                    'end':'2021-06-27'
                 },
                 {
                     'coursename':'IELTS 1',
                     'paymentstatus':'Paid',
                     'teachername':'Tran Thuy Duong',
-                    'start':'2020-3-25',
+                    'start':'2020-03-25',
                     'end':'2021-11-20'
                 }
             ]
