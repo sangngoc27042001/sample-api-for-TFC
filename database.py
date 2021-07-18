@@ -108,6 +108,22 @@ class database():
                     'end':'19:00',
                     'content':'WRITING'
                 },
+            ],
+           'courseInfo':[
+                {
+                    'coursename':'IELTS 2',
+                    'paymentstatus':'-1 000 000 vnd',
+                    'teachername':'Ngo Bao Chau',
+                    'start':'2020-12-25',
+                    'end':'2021-6-27'
+                },
+                {
+                    'coursename':'IELTS 1',
+                    'paymentstatus':'Paid',
+                    'teachername':'Tran Thuy Duong',
+                    'start':'2020-3-25',
+                    'end':'2021-11-20'
+                }
             ]
         }
 Database=database()
