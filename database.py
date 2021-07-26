@@ -91,22 +91,28 @@ class database():
             },
             'calendar':[
                 {
-                    'date':'16-7-2021',
+                    'date':'26-7-2021',
                     'start':'19:30',
                     'end':'21:00',
                     'content':'READING'
                 },
                 {
-                    'date':'18-7-2021',
+                    'date':'27-7-2021',
                     'start':'17:30',
                     'end':'19:00',
                     'content':'LISTENING'
                 },
                {
-                    'date':'15-7-2021',
+                    'date':'29-7-2021',
                     'start':'17:30',
                     'end':'19:00',
                     'content':'WRITING'
+                },
+               {
+                    'date':'30-7-2021',
+                    'start':'17:30',
+                    'end':'19:00',
+                    'content':'SPEAKING'
                 },
             ],
            'courseInfo':[
